@@ -1,2 +1,2 @@
 # MySite
-GitHub Pages of MySite from WebDevBootcamp
+GitHub Pages of My Site from WebDevBootcamp
